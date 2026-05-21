@@ -61,4 +61,4 @@ This project is intended to be modular. Future updates will focus on:
 
 ---
 
-Copyright © 2026 Terry O'Gara. All rights reserved.
+Copyright © 2022–2026 Terry O'Gara. All rights reserved.
