@@ -812,7 +812,8 @@ if __name__ == "__main__":
     play_game()
 
 # +++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-# MIAMI TIME MACHINE: (V1.1) (C) 2022, (V1.7) 2026 Terry O'Gara
+# MIAMI TIME MACHINE
+# Copyright © 2022–2026 Terry O'Gara.
 # All rights reserved.
 # V1.0 originally created for the Udacity Intro to Programming course.
 # ADVENTURE GAME ASSIGNMENT: Submitted by 09/02/22
