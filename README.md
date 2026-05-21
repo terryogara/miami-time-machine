@@ -60,3 +60,5 @@ This project is intended to be modular. Future updates will focus on:
 *Contributions and bug reports are welcome!*
 
 ---
+
+Copyright © 2026 Terry O'Gara. All rights reserved.
